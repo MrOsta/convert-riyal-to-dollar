@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566646171 source:/root/Desktop/convert/main.c
+	<stdio.h>
+	<stdlib.h>
+
